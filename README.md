@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/1bV6YjL/60a261cdcc3468fac57fd68c-business-analyst.png" alt="Project Logo Url" width="726">
+      <img src="https://i.ibb.co/4ZtkW8Q/60a261cdcc3468fac57fd68c-business-analyst.png" alt="Project Logo Url" width="726">
 </p>
 
 <p align="center">
